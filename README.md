@@ -8,8 +8,8 @@
   * ```deposit [amount]``` - Deposits this amount to the logged in customer
   * ```withdraw [amount]``` - Withdraws this amount from the logged in customer
   * ```transfer [target] [amount]``` - Transfers this amount from the logged in customer to the target customer
-  * ```owed to``` - Show all owed usernames owed to logged in user
-  * ```owed from``` - Show all usernames wed from logged in user
+  * ```owed to``` - Show all usernames owed to logged in user
+  * ```owed from``` - Show all usernames owed from logged in user
   * ```logout``` - Logs out of the current customer 
 --------------------------------------------------------------------------------------------------------------------------------------------
 ##### Note: Always use 'login' operation to register new user, this will automatically create new user in backend
